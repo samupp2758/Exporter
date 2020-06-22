@@ -1,0 +1,17 @@
+{
+  "name": "object-exporter",
+  "version": "1.0.0",
+  "description": "An Lib to Export our objects array to DOC/CSV/XML",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "DuckBox",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "objects-to-csv": "^1.3.6"
+  }
+}
